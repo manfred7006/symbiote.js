@@ -1,6 +1,6 @@
 {
   "name": "symbiote.js",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Simple, light and very powerful library to create embedded components for any purpose, with a data flow management included.",
   "main": "src/index.js",
   "scripts": {
